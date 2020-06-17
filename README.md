@@ -1,0 +1,1 @@
+# Google-App-Script-Delete-Empty-Columns-and-Rows
