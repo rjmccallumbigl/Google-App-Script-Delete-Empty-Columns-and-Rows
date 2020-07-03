@@ -1,6 +1,6 @@
 # Google-App-Script-Delete-Empty-Columns-and-Rows
 
-Delete all empty rows and columns in your active sheet.
+Delete all empty rows and columns in your Google sheets.
 
 Before:
 ![Before](https://github.com/rjmccallumbigl/Google-App-Script-Delete-Empty-Columns-and-Rows/blob/master/before.png)
